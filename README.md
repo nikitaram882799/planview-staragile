@@ -1,2 +1,4 @@
+Initial Code Changes in Repository
 Adding new content
-Final Statement
+Adding new content
+Unwanted content
